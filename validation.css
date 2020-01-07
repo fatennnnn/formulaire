@@ -1,0 +1,25 @@
+
+body{
+    background-color: indigo;
+    display:flex;
+    flex-direction :column ;
+    justify-content: center;
+    align-items: center;
+}
+form input {
+    display:block;
+    background-color:#2A2A3C;
+    border: 2px solid  #2A2A3c;
+    color:white;
+
+}
+.submit-reset{
+    border-radius: 5px;
+    width:153px;
+     margin-top:15px;
+     padding-top:3px;
+     text-align:center;
+}
+form label{
+    color:white;
+}
